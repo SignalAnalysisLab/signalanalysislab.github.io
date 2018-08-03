@@ -1,3 +1,3 @@
-# signalanalysislab.github.io
+# Signal Analysis Lab
 
 ![](img/sal.png)
